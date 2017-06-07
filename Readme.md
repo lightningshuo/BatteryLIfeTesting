@@ -1,5 +1,5 @@
 # Battery Life Testing
-**通过UIAutomator实现电池生命周期的自动化测试（Based on A1 AP）**
+通过UIAutomator实现电池生命周期的自动化测试（Based on A1 AP）
 
 
 ## Testcase
@@ -12,10 +12,13 @@
 Flip the file for the next page every 10s. 
 
 
-#### 3、Establish a phone call 
+### 3、Establish a phone call 
 
 Establish a phone call for 1 minute , then hang off the phone and repeat from the beginning.
 30 minutes altogether
+
+
+## Instructions
 
 
 
