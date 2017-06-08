@@ -1,5 +1,5 @@
 # Battery Life Testing
-通过UIAutomator实现电池生命周期的自动化测试（Based on A1 AP）
+通过UIAutomator实现电池生命周期的自动化测试（Based on SamSung S5 ）
 
 
 ## Testcase
