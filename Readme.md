@@ -1,21 +1,23 @@
 # Battery Life Testing
-Í¨¹ıUIAutomatorÊµÏÖµç³ØÉúÃüÖÜÆÚµÄ×Ô¶¯»¯²âÊÔ£¨Based on A1 AP£©
+é€šè¿‡UIAutomatorå®ç°ç”µæ± ç”Ÿå‘½å‘¨æœŸçš„è‡ªåŠ¨åŒ–æµ‹è¯•ï¼ˆBased on A1 APï¼‰
 
 
 ## Testcase
 
-### 1¡¢Browsing the Chrome App for 1 hour
+### 1ã€Browsing the Chrome App for 1 hour
 
 
-### 2¡¢User browsing the TXT File for 1 hour
+### 2ã€User browsing the TXT File for 1 hour
 
 Flip the file for the next page every 10s. 
 
 
-### 3¡¢Establish a phone call 
+### 3ã€Establish a phone call 
 
 Establish a phone call for 1 minute , then hang off the phone and repeat from the beginning.
 30 minutes altogether
+
+![image](https://github.com/lightningshuo/BatteryLIfeTesting/blob/master/testPhone.gif)
 
 
 ## Instructions
